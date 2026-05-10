@@ -5,15 +5,15 @@
 # range is always start with 0 upto n-1 and step is 1 . bur its changable
 sen="My name is Aditya"
 
-"""for i in range(1, 21, 2):
+'''for i in range(1, 21, 2):
     print(i)
 
 sen="My name is Aditya"
-for char in range(len(sen)):
+for char in range(len(sen)): #len(0,7) and len(7) is same as len(sen)
     print(sen[char])
 
 for i in sen:
-    print(i)"""
+    print(i)'''
 
 #for j in range(len(sen)-1,-1,-1):
 #    print(sen[j])
@@ -31,4 +31,8 @@ for i in sen:
 else:                                   
     print("Else statement is executed ") #if for loop will not execute then else block will be executed """
 
-
+#-----------------While loop------------------------------------------
+#while condition:
+    #code to be executed 
+#in that condition is true then code will be executed otherwise it will not be executed
+#while loop is used when we dont know the number of iterations
