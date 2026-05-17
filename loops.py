@@ -36,3 +36,7 @@ else:
     #code to be executed 
 #in that condition is true then code will be executed otherwise it will not be executed
 #while loop is used when we dont know the number of iterations
+'''i=0
+while i<10:
+    print(i)
+    i+=1 #i=i+1'''
